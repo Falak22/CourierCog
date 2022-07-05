@@ -2,6 +2,8 @@
 Courier Management System (CMS) is a modular full business software framework for an enterprise that possesses operations in domestic and courier services. The application is reduced as much as possible to avoid errors while entering the data. CMS solution handles the end-to-end process starting from initiating a courier order, driver pickup, and delivery of a courier business. The system will be used for day-to-day activities like out return, company details, hub rates, booking, and non-delivery and pickup centers. It is not easy to do this process manually because it would become very hectic. The main concern of the courier agency is to deliver the right parcel to its owner. To accomplish it the agency has to maintain the record of the customer details like personal, courier, bill, payment.
 
 
+#SCREENSHOTS
+
 ![2022-01-13 (8)](https://user-images.githubusercontent.com/71717105/177366351-9c6fcd7f-5990-4255-a404-13bf0acde14d.png)
 ![2022-01-13](https://user-images.githubusercontent.com/71717105/177366356-03a8dba1-bd6d-4f21-91a9-432980d1759a.png)
 ![2022-01-13 (1)](https://user-images.githubusercontent.com/71717105/177366357-753381ad-5433-477d-998d-5180c50c0808.png)
